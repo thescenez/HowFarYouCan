@@ -1,0 +1,17 @@
+[
+    {
+        "top" : "1",
+        "name" : "Bean",
+        "level" : "20"
+    },
+    {
+        "top" : "2",
+        "name" : "Scene",
+        "level" : "15"
+    },
+    {
+        "top" : "3",
+        "name" : "Galaxy",
+        "level" : "10"
+    }
+]

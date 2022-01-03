@@ -1,0 +1,102 @@
+[
+    {
+        "level" : 1,
+        "word" : ["A", "B", "C", "D", "E", "a", "b", "c", "d", "e"],
+        "img" : "/Image/01.png"
+    },
+    {
+        "level" : 2,
+        "word" : ["ad", "am", "an", "as", "at", "be", "by", "do", "go", "he", "hi", "if", "in", "is", "it", "me", "my", "no", "of", "oh", "or", "so", "to", "up", "us", "we"],
+        "img" : "/Image/02.png"
+    },
+    {
+        "level" : 3,
+        "word" : ["abs", "ace", "act", "add", "ads", "ago", "and", "bag", "bar", "ban", "bin", "bro", "buy", "bye", "box", "bee", "cow", "cat", "car", "cry", "did", "dry", "ego", "elf", "fly", "hug", "joy", "its", "tea", "via"],
+        "img" : "/Image/03.png"
+    },
+    {
+        "level" : 4,
+        "word" : ["army", "aqua", "arts", "area", "auto", "asps", "awed", "baud", "berk", "best", "beth", "boas", "calx", "carl", "cede", "dafy", "dime", "emir", "feud", "feus", "gawk", "geds", "imam", "isle", "kaph", "kyak", "libs", "lire", "lewd", "muon", "newt", "narc", "oops", "oxid", "sned", "whiz", "wren", "yaud"],
+        "img" : "/Image/04.png"
+    },
+    {
+        "level" : 5,
+        "word" : ["A box", "abuse", "array", "avoid", "quake", "blade", "qajaq", "azygy"],
+        "img" : "/Image/05.png"
+    },
+    {
+        "level" : 6,
+        "word" : ["accept", "avenue", "desire", "estate", "fields", "fourth", "scheme"],
+        "img" : "/Image/06.png"
+    },
+    {
+        "level" : 7,
+        "word" : ["Fat cat", "anxious", "inquiry", "whereas", "stretch", "phoenix", "Oh yeah"],
+        "img" : "/Image/07.png"
+    },
+    {
+        "level" : 8,
+        "word" : ["Let's go", "Catholic", "dialogue", "weighted", "ultimate", "thorough", "sergeant", "doctrine"],
+        "img" : "/Image/08.png"
+    },
+    {
+        "level" : 9,
+        "word" : ["beautiful", "adventure", "Irregular", "knowledge", "nutrition", "the truth", "the unity"],
+        "img" : "/Image/09.png"
+    },
+    {
+        "level" : 10,
+        "word" : ["Early Bird", "Ask Nicely", "Fairy Tale", "Witch Hunt", "Fire Truck", "Comfy Cozy", "Heavy Duty", "Home Alone", "Ivy League", "Extra Mile"],
+        "img" : "/Image/10.png"
+    },
+    {
+        "level" : 11,
+        "word" : ["Fun for All", "alternative", "application", "certificate", "authorities", "established", "institution"],
+        "img" : "/Image/11.png"
+    },
+    {
+        "level" : 12,
+        "word" : ["Take Me Home", "send it back", "scar on skin", "break of day", "lose or wins"],
+        "img" : "/Image/12.png"
+    },
+    {
+        "level" : 13,
+        "word" : ["Philosophical", "Understanding", "Halfrecumbent", "Non-Important", "Old-fashion", "Ventriloquism", "Inflorescence", "Unglassesless", "Bluminesence", "Call it a Day"],
+        "img" : "/Image/13.png"
+    },
+    {
+        "level" : 14,
+        "word" : ["Face The Music", "Ball and Chain", "Win Hands Down", "Know The Ropes", "Walk the Plank", "Rags to Riches", "One Hit Wonder", "Rise and Shine"],
+        "img" : "/Image/14.png"
+    },
+    {
+        "level" : 15,
+        "word" : ["Ace in the Hole", "Fall from Grace", "Head Over Heels", "Fair and Square", "Goody Two Shoes", "Spill the Beans"] ,
+        "img" : "/Image/15.png"
+    },
+    {
+        "level" : 16,
+        "word" : ["Cash On The Nail", "Man of Few Words", "Down to the Wire", "Call of the Wild", "Talk to the Hand", "Wild Goose Chase", "Catch Twenty Two"],
+        "img" : "/Image/16.png"
+    },
+    {
+        "level" : 17,
+        "word" : ["Foam at the Mouth", "Out of This World", "Right Off the Bat", "Put up Your Dukes", "Down in the Dumps", "Keep Your Chin Up", "Over My Dead Body"],
+        "img" : "/Image/17.png"
+    },
+    {
+        "level" : 18,
+        "word" : ["Throw in the Towel", "Close But No Cigar", "Speak of the Devil", "Last But Not Least", "Drop Dead Gorgeous", "Brand Spanking New", "Fingers and Thumbs", "Green Eyed Monster", "Bells and Whistles"],
+        "img" : "/Image/18.png"
+    },
+    {
+        "level" : 19,
+        "word" : ["It Serves You Right", "Blast From the Past", "Well How About That", "Dropping Like Flies", "No Strings Attached", "Level Playing Field"],
+        "img" : "/Image/19.png"
+    },
+    {
+        "level" : 20,
+        "word" : ["Like Father Like Son", "Beat Around the Bush", "Fight Fire With Fire", "Bring Home the Bacon", "Hard Pill To Swallow", "Knock Your Socks Off", "A Drop in the Bucket"],
+        "img" : "/Image/20.png"
+    }
+]    
